@@ -12,7 +12,7 @@ window.cc.init({
     "This is your description. Small description of actions to understand how the demo works.",
   theme: "dark", // dark|light
   article: "https://creative-coding.com/post/template",
-  source: "https://github.com/cc-creativecode/demos/tree/master/template",
+  source: "https://github.com/cc-creativecode/cc-demos/tree/master/template",
 });
 
 
